@@ -22,7 +22,7 @@ mmcallister@peacecorps.gov
 
 <h3>Install and run </h3>
 
-1. Install CocoaPods (manage libraries and dependencias like RestKit):
+1. Install CocoaPods (manage libraries and dependencies like RestKit):
 > sudo gem install cocoapods
 
 2. Setup cocoapods environment:
